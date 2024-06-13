@@ -1,4 +1,7 @@
 # demo
+```cmd
+mvn clean install
+```
 Test test
 
 ### Chạy ứng dụng bằng cách chạy tệp TodoApplication.java.
