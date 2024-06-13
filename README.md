@@ -21,4 +21,8 @@ curl -X GET http://localhost:8080/api/todos
 -POST tạo công việc mới:
 ```yaml
 curl -X POST http://localhost:8080/api/todos -H "Content-Type: application/json" -d '{"title":"New Task","description":"Task description"}'
-``
+```
+
+```
+mvn spring-boot:run
+```
