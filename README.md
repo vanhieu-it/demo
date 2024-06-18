@@ -1,8 +1,4 @@
-# demo
-```cmd
-mvn clean install
-```
-Test test
+# demo  
 
 ### Chạy ứng dụng bằng cách chạy tệp TodoApplication.java.
 
@@ -12,7 +8,10 @@ Test test
 + POST /api/todos: Tạo một công việc mới.
 + PUT /api/todos/{id}: Cập nhật công việc theo ID.
 + DELETE /api/todos/{id}: Xóa công việc theo ID.
-
+  
+```cmd
+mvn clean install
+```
 ###  Kiểm Tra API
 - GET tất cả công việc:
 ```yaml
