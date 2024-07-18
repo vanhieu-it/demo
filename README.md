@@ -1,4 +1,4 @@
-# test jenkins 
+# test jenkins http://localhost:9090/login 
 
 ### Chạy ứng dụng bằng cách chạy tệp TodoApplication.java.
 
